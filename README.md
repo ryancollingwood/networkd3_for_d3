@@ -38,6 +38,9 @@ Which be used to generate a network graph along the lines of:
 (Sword of Smashing)--(Dented Helmet)--(Flail of Flailing)
 ```
 
+## Video Demonstration
+https://www.youtube.com/watch?v=UnJ1eaFifB8
+
 ## Screenshots
 
 ### Distributions
@@ -49,9 +52,10 @@ Explore the distribution of the data
 Create a network (graph) visualisation of the data. 
 
 ![Correlation](/images/Correlation.png)!
+Find out which items are frequently (or in-frequently) used together
 
 ![Comparison](/images/Comparison.png)!
-
+Click on an intersection on the correlation matrix and see the details of the two items
 
 ## Installation instructions
 
