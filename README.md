@@ -1,6 +1,6 @@
 # networkd3_for_d3
 Shiny visualisation built in R using networkD3 (of the D3 visualisation library) to explore a dataset relating to Diablo® III (otherwise also known as D3). Other notable packages used: plotly, shinyjs.
- 
+
 ###Diablo® III
 Diablo is a trademark or registered trademark of Blizzard Entertainment, Inc., in the U.S. and/or other countries.
 
@@ -44,17 +44,17 @@ https://www.youtube.com/watch?v=UnJ1eaFifB8
 ## Screenshots
 
 ### Distributions
-![Distributions](/images/Distributions.png)!
+![Distributions](/docs/images/Distributions.png)!
 Explore the distribution of the data
 
 ### Network
-![Network](/images/Network.png)!
-Create a network (graph) visualisation of the data. 
+![Network](/docs/images/Network.png)!
+Create a network (graph) visualisation of the data.
 
-![Correlation](/images/Correlation.png)!
+![Correlation](/docs/images/Correlation.png)!
 Find out which items are frequently (or in-frequently) used together
 
-![Comparison](/images/Comparison.png)!
+![Comparison](/docs/images/Comparison.png)!
 Click on an intersection on the correlation matrix and see the details of the two items
 
 ## Installation instructions
@@ -95,6 +95,3 @@ If you find this useful, let me know. Even better if you're able to improve upon
 @ryancollingwood - twitter
 https://github.com/ryancollingwood - github
 www.linkedin.com/in/ryancollingwood - LinkedIn
-
-
-
